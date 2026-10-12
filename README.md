@@ -5,7 +5,7 @@ This tool is designed to help pianists and producers explore scales, map out the
 ## Live Application
 To make this tool as accessible as possible, it is hosted online via Streamlit Community Cloud. You can access and interact with the application directly from your browser without needing to download or run any code locally:
 
-https://piano-music-theory-chord-visualizer-hvhtrdcfjb4xt6ok3mzymb.streamlit.app/
+https://piano-music-theory-chord-visualizer-hvhtrdcfjb4xt6ok3mzymb.streamlit.app
 
 ## Core Features
 - **Dynamic Keyboard Mapping:** Visualizes scales and intervals across the keyboard based on your chosen root note and scale type.
